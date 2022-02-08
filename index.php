@@ -11,9 +11,9 @@
 <body>
     <div class="container col-8 p-5" style="background-color: #fae1dd;">
         <h1 style="color: black;">Calcular la hipotenusa del triangulo rectangulo</h1>
-        <p>el primer lado es de: 3 cm</p>
+        <p>el primer lado es de: 3 cm </p>
         <br/>
-        <p>el segundo lado es de: 4 cm</p>
+        <p>el segundo lado es de: 4 cm </p>
         <br/>
 
         <form method="post" action="calculo.php">
