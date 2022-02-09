@@ -19,7 +19,7 @@
         <br/>
         </div>
         <div class="col-4" >
-        <img src="img/tr.png" alt="triangulo rectangulo">
+        <img src="img/imagen.png" alt="triangulo rectangulo">
         </div>
         </div>
         <form method="post" action="calculo.php">
