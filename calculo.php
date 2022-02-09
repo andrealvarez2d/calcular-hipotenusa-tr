@@ -16,7 +16,7 @@
     $sumaLados = null;
     $hipotenusa = null;
 
-    if(isset($_POST['btn']) && $_POST['btn'] == 'Calcular') {
+    if(isset($_POST['btn']) && $_POST['btn'] == 'Calcular'){
         $lado1 = pow($lado1, 2);
         $lado2 = pow($lado2, 2);
         $sumaLados = $lado1 + $lado2;
